@@ -296,7 +296,7 @@
       });
       const data = await res.json();
       if (data.ok) {
-        setStatus('✓ Guardado: <a href="' + data.url + '" target="_blank">' + data.nombre + '</a>', 'success');
+        setStatus('✓ Guardado: <span>' + data.nombre + '</span>', 'success');
       } else {
         setStatus('✗ Error al guardar: ' + data.error, 'error');
       }
