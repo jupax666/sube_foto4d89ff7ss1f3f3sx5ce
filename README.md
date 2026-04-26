@@ -1,7 +1,7 @@
 ## **UTILIDAD PARA COMPARTIR FOTOS CON EL CAU**
 
 **Los usuarios deben subir la foto entrando a:**  
-### bit.ly/foto848 - https://bit.ly/foto848 - (https://juanr7777.github.io/sube_foto4d89ff7ss1f3f3sx5ce/)  
+### bit.ly/foto848 - https://bit.ly/foto848 -> https://juanr7777.github.io/sube_foto4d89ff7ss1f3f3sx5ce/  
 *Continuar a destino (aceptar acceso a la url)  
 Iniciar cámara  
 Aceptar permiso para el uso de la cámara  
